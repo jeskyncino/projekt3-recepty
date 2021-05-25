@@ -194,15 +194,17 @@ h1 {
 
 .recept-detail {
     background: white;
+    
 }
+
 
 .recept-detail-obrazek {
     height: 300px;
     position: relative;
 }
 
-/*
-.recept-detail-obrazek::after {
+
+/*.recept-detail-obrazek::after {
     content: '';
     position: absolute;
     background-image: linear-gradient(to right, #fddb92 0%, #d1fdff 100%);
@@ -211,8 +213,8 @@ h1 {
     right: 0;
     top: 0;
     bottom: 0;
-}
-*/
+}*/
+
 
 .recept-detail-obrazek img {
     width: 100%;
